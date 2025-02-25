@@ -1,0 +1,155 @@
+[
+  {
+    "RMA": "10001",
+    "CustomerName": "Karrar Alhakim",
+    "Order": "10009",
+    "Created": "25 Apr, 2021",
+    "LastReplied": "Rhadi Muhamad",
+    "Status": "Approved",
+    "Action": ""
+  },
+  {
+    "RMA": "10002",
+    "CustomerName": "John Doe",
+    "Order": "10010",
+    "Created": "10 May, 2021",
+    "LastReplied": "Sarah Johnson",
+    "Status": "Pending",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Rejected",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Package",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10003",
+    "CustomerName": "Emily Smith",
+    "Order": "10011",
+    "Created": "15 Jun, 2021",
+    "LastReplied": "Michael Brown",
+    "Status": "Denied",
+    "Action": ""
+  },
+  {
+    "RMA": "10004",
+    "CustomerName": "Anna Rodriguez",
+    "Order": "10012",
+    "Created": "20 Jul, 2021",
+    "LastReplied": "David Wilson",
+    "Status": "In Progress",
+    "Action": ""
+  },
+  {
+    "RMA": "10005",
+    "CustomerName": "Mohammed Ahmed",
+    "Order": "10013",
+    "Created": "01 Aug, 2021",
+    "LastReplied": "Jennifer Thompson",
+    "Status": "Completed",
+    "Action": ""
+  }
+]

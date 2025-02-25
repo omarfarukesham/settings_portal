@@ -1,0 +1,142 @@
+[
+  {
+    "storeId": "1001",
+    "storeName": "Digi Shop",
+    "phoneNumber": "+1 123-456-7890",
+    "operationTime": "9:00 AM - 6:00 PM",
+    "country": "United States",
+    "region": "California",
+    "VAT": "12345",
+    "action": "Edit"
+  },
+  {
+    "storeId": "1002",
+    "storeName": "XYZ Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1003",
+    "storeName": "red Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1004",
+    "storeName": "go daddy ",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Sun Rise Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "USA",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  },
+  {
+    "storeId": "1005",
+    "storeName": "Ali-express Store",
+    "phoneNumber": "+44 20 1234 5678",
+    "operationTime": "8:30 AM - 5:30 PM",
+    "country": "United Kingdom",
+    "region": "London",
+    "VAT": "98765",
+    "action": "Delete"
+  }
+]

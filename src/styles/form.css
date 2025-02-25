@@ -1,0 +1,25 @@
+/* Styles for date picker */
+.custom-datepicker-calendar .react-datepicker__triangle::before,
+.react-datepicker__triangle::after {
+  display: none;
+}
+
+.custom-datepicker-calendar {
+  @apply bg-white border border-gray-3 rounded shadow p-2;
+}
+
+.custom-datepicker-calendar .react-datepicker__header {
+  @apply bg-white;
+}
+
+/* Styles for quill text editor */
+.editor .ql-container {
+  min-height: 250px;
+  border-radius: 0 8px 8px 8px;
+  border-top: 1px solid #ccc !important;
+}
+
+.editor .ql-toolbar {
+  border-radius: 8px 8px 0 0;
+  width: fit-content;
+}

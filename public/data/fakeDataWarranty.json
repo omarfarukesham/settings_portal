@@ -1,0 +1,302 @@
+[
+  {
+    "Claim": 1000001,
+    "Customer": "Mr.Jon",
+    "CustomerId": "20220515",
+    "ClaimDate": "12.12.23",
+    "ProductName": "Watch",
+    "ProductId": 222223,
+    "Seller": "Apple",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000002,
+    "Customer": "Mrs.Smith",
+    "CustomerId": "20220516",
+    "ClaimDate": "11.11.23",
+    "ProductName": "Phone",
+    "ProductId": 222224,
+    "Seller": "Samsung",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000003,
+    "Customer": "Mr.Doe",
+    "CustomerId": "20220517",
+    "ClaimDate": "10.10.23",
+    "ProductName": "Laptop",
+    "ProductId": 222225,
+    "Seller": "Dell",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000004,
+    "Customer": "Ms.Wang",
+    "CustomerId": "20220518",
+    "ClaimDate": "09.09.23",
+    "ProductName": "Camera",
+    "ProductId": 222226,
+    "Seller": "Canon",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000005,
+    "Customer": "Mr.Smith",
+    "CustomerId": "20220519",
+    "ClaimDate": "08.08.23",
+    "ProductName": "Headphones",
+    "ProductId": 222227,
+    "Seller": "Sony",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000006,
+    "Customer": "Mrs.Davis",
+    "CustomerId": "20220520",
+    "ClaimDate": "07.07.23",
+    "ProductName": "Tablet",
+    "ProductId": 222228,
+    "Seller": "Apple",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000007,
+    "Customer": "Mr.Lee",
+    "CustomerId": "20220521",
+    "ClaimDate": "06.06.23",
+    "ProductName": "Smart TV",
+    "ProductId": 222229,
+    "Seller": "Samsung",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000008,
+    "Customer": "Ms.Garcia",
+    "CustomerId": "20220522",
+    "ClaimDate": "05.05.23",
+    "ProductName": "Printer",
+    "ProductId": 222230,
+    "Seller": "HP",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000009,
+    "Customer": "Mr.Anderson",
+    "CustomerId": "20220523",
+    "ClaimDate": "04.04.23",
+    "ProductName": "Gaming Console",
+    "ProductId": 222231,
+    "Seller": "Microsoft",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000010,
+    "Customer": "Mrs.Taylor",
+    "CustomerId": "20220524",
+    "ClaimDate": "03.03.23",
+    "ProductName": "Smartwatch",
+    "ProductId": 222232,
+    "Seller": "Apple",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000011,
+    "Customer": "Mr.Sanchez",
+    "CustomerId": "20220525",
+    "ClaimDate": "02.02.23",
+    "ProductName": "Speaker",
+    "ProductId": 222233,
+    "Seller": "Bose",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000012,
+    "Customer": "Ms.Thompson",
+    "CustomerId": "20220526",
+    "ClaimDate": "01.01.23",
+    "ProductName": "Monitor",
+    "ProductId": 222234,
+    "Seller": "LG",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000013,
+    "Customer": "Mr.Harris",
+    "CustomerId": "20220527",
+    "ClaimDate": "31.12.22",
+    "ProductName": "Keyboard",
+    "ProductId": 222235,
+    "Seller": "Logitech",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000014,
+    "Customer": "Mrs.Kim",
+    "CustomerId": "20220528",
+    "ClaimDate": "30.11.22",
+    "ProductName": "Router",
+    "ProductId": 222236,
+    "Seller": "Netgear",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000015,
+    "Customer": "Mr.Lopez",
+    "CustomerId": "20220529",
+    "ClaimDate": "29.10.22",
+    "ProductName": "External Hard Drive",
+    "ProductId": 222237,
+    "Seller": "Western Digital",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000016,
+    "Customer": "Ms.Rodriguez",
+    "CustomerId": "20220530",
+    "ClaimDate": "28.09.22",
+    "ProductName": "Camera Lens",
+    "ProductId": 222238,
+    "Seller": "Nikon",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000017,
+    "Customer": "Mr.Wilson",
+    "CustomerId": "20220531",
+    "ClaimDate": "27.08.22",
+    "ProductName": "Smart Speaker",
+    "ProductId": 222239,
+    "Seller": "Amazon",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000018,
+    "Customer": "Mrs.Brown",
+    "CustomerId": "20220601",
+    "ClaimDate": "26.07.22",
+    "ProductName": "Wireless Earbuds",
+    "ProductId": 222240,
+    "Seller": "Apple",
+    "Status": {
+      "value": "resolve",
+      "label": "Resolve"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000019,
+    "Customer": "Mr.Martinez",
+    "CustomerId": "20220602",
+    "ClaimDate": "25.06.22",
+    "ProductName": "Smart Thermostat",
+    "ProductId": 222241,
+    "Seller": "Nest",
+    "Status": {
+      "value": "pending",
+      "label": "Pending"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  },
+  {
+    "Claim": 1000020,
+    "Customer": "Ms.Kim",
+    "CustomerId": "20220603",
+    "ClaimDate": "24.05.22",
+    "ProductName": "Fitness Tracker",
+    "ProductId": 222242,
+    "Seller": "Fitbit",
+    "Status": {
+      "value": "checking",
+      "label": "Checking"
+    },
+    "Policy": "View",
+    "Action": "Edit | Delete"
+  }
+]

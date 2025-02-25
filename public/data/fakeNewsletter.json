@@ -1,0 +1,134 @@
+[
+  {
+    "ID": 1,
+    "Name": "John Doe",
+    "Customer Type": "Regular",
+    "Customer Since": "2019-05-15",
+    "Email": "johndoe@example.com",
+    "Phone": "+1234567890",
+    "Country": "United States",
+    "Status": "Subscribe",
+    "Action": "Edit"
+  },
+  {
+    "ID": 2,
+    "Name": "Jane Smith",
+    "Customer Type": "Premium",
+    "Customer Since": "2020-02-10",
+    "Email": "janesmith@example.com",
+    "Phone": "+9876543210",
+    "Country": "Canada",
+    "Status": "Subscribe",
+    "Action": "Delete"
+  },
+  {
+    "ID": 3,
+    "Name": "Alex Johnson",
+    "Customer Type": "Regular",
+    "Customer Since": "2018-09-22",
+    "Email": "alexjohnson@example.com",
+    "Phone": "+4433221100",
+    "Country": "United Kingdom",
+    "Status": "Subscribe",
+    "Action": "View"
+  },
+  {
+    "ID": 4,
+    "Name": "Maria Garcia",
+    "Customer Type": "Regular",
+    "Customer Since": "2021-01-05",
+    "Email": "mariagarcia@example.com",
+    "Phone": "+5512345678",
+    "Country": "Brazil",
+    "Status": "Subscribe",
+    "Action": "Edit"
+  },
+  {
+    "ID": 5,
+    "Name": "Mohammed Rahman",
+    "Customer Type": "Premium",
+    "Customer Since": "2017-11-30",
+    "Email": "mohammedrahman@example.com",
+    "Phone": "+8801234567",
+    "Country": "Bangladesh",
+    "Status": "Subscribe",
+    "Action": "Delete"
+  },
+  {
+    "ID": 1,
+    "Name": "John Doe",
+    "Customer Type": "Regular",
+    "Customer Since": "2019-05-15",
+    "Email": "johndoe@example.com",
+    "Phone": "+1234567890",
+    "Country": "United States",
+    "Status": "Subscribe",
+    "Action": "Edit"
+  },
+  {
+    "ID": 2,
+    "Name": "Jane Smith",
+    "Customer Type": "Premium",
+    "Customer Since": "2020-02-10",
+    "Email": "janesmith@example.com",
+    "Phone": "+9876543210",
+    "Country": "Canada",
+    "Status": "Subscribe",
+    "Action": "Delete"
+  },
+  {
+    "ID": 3,
+    "Name": "Alex Johnson",
+    "Customer Type": "Regular",
+    "Customer Since": "2018-09-22",
+    "Email": "alexjohnson@example.com",
+    "Phone": "+4433221100",
+    "Country": "United Kingdom",
+    "Status": "Subscribe",
+    "Action": "View"
+  },
+  {
+    "ID": 4,
+    "Name": "Maria Garcia",
+    "Customer Type": "Regular",
+    "Customer Since": "2021-01-05",
+    "Email": "mariagarcia@example.com",
+    "Phone": "+5512345678",
+    "Country": "Brazil",
+    "Status": "Subscribe",
+    "Action": "Edit"
+  },
+  {
+    "ID": 5,
+    "Name": "Mohammed Rahman",
+    "Customer Type": "Premium",
+    "Customer Since": "2017-11-30",
+    "Email": "mohammedrahman@example.com",
+    "Phone": "+8801234567",
+    "Country": "Bangladesh",
+    "Status": "Subscribe",
+    "Action": "Delete"
+  },
+  {
+    "ID": 4,
+    "Name": "Maria Garcia",
+    "Customer Type": "Regular",
+    "Customer Since": "2021-01-05",
+    "Email": "mariagarcia@example.com",
+    "Phone": "+5512345678",
+    "Country": "Brazil",
+    "Status": "Subscribe",
+    "Action": "Edit"
+  },
+  {
+    "ID": 5,
+    "Name": "Mohammed Rahman",
+    "Customer Type": "Premium",
+    "Customer Since": "2017-11-30",
+    "Email": "mohammedrahman@example.com",
+    "Phone": "+8801234567",
+    "Country": "Bangladesh",
+    "Status": "Subscribe",
+    "Action": "Delete"
+  }
+]
